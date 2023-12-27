@@ -15,9 +15,13 @@ Facilidade de Uso: A interface do programa é projetada para ser intuitiva, perm
 Como Usar:
 
 Clone o repositório para sua máquina local.
+
 Compile o programa usando um compilador C compatível.
+
 Execute o programa e siga as instruções para escolher os cenários e algoritmos desejados.
+
 Analise os resultados nos arquivos de log gerados para cada algoritmo.
+
 Este projeto é uma ferramenta valiosa para estudantes, desenvolvedores e entusiastas que desejam entender melhor o comportamento e a eficiência de diferentes algoritmos de ordenação em diversas situações. Contribuições e sugestões são bem-vindas para aprimorar ainda mais essa ferramenta de avaliação de desempenho.
 
 
